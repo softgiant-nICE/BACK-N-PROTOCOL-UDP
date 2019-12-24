@@ -1,9 +1,6 @@
 #!/usr/bin/python
 
-# This is the CS 352 Spring 2017 Client for the 1st programming
-# project
-
-# (c) 2019, Ankit version . 
+# (c) 2019, softgiant version . 
 
 import argparse
 import time
